@@ -1,0 +1,9 @@
+.bax{
+    border: #09aeea 10px solid;
+}
+.kuk{
+    color:#3a3939
+}
+.kuk:hover {
+    color: #09aeea;
+}
